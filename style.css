@@ -1,0 +1,45 @@
+body{
+    background-color: darkgrey;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+header{
+    padding: 50px;
+}
+#thing{
+
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    text-align: center;
+    background-color: whitesmoke;
+    width: 900px;
+    height: 600px;
+    border-radius: 10px;
+}
+#person{
+    border-radius: 10px;
+    width: 15em;
+    height: 15em;
+    object-fit:cover;
+}
+#quote{
+    margin: auto;
+    background-color: gainsboro;
+    width: 400px;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+
+button{
+    background-color: cornflowerblue;
+    color:aliceblue;
+}
+
+button:hover{
+    background-color: mediumblue;
+}
